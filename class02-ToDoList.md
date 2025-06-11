@@ -1,6 +1,6 @@
 # Class 01: ToDoList
 
-.NET Project Web: ToDoList
+Projeto .NET do tipo Web usando o Padrão MVC, default para projetos fullstack.
 
 ## Instalação do SDK .NET
 
