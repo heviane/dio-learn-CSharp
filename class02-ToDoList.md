@@ -1,6 +1,16 @@
-# dio-learn-CSharp
+# Class 01: ToDoList
 
-.NET and CSharp Course
+.NET Project Web: ToDoList
+
+## Instalação do SDK .NET
+
+Baixe e instale o SDK .NET no site [https://dotnet.microsoft.com/en-us/](https://dotnet.microsoft.com/en-us/)
+
+Verifique a instalação via terminal:
+
+```bash  
+    dotnet --version
+```
 
 ## Projeto .NET
 

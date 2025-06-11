@@ -1,5 +1,6 @@
 # Class 01: HelloWorld
 
+.NET Project CLI: HelloWorld
 
 ## Instalação do SDK .NET
 
